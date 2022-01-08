@@ -6,7 +6,7 @@
 | 序号 | [标题](笔记链接网址) | [视频](b站视频网址) | [笔记](笔记链接) [代码](代码链接) [PPT](PPT链接)| [贡献者](贡献者主页网址) |
 | 00 | [预告](https://github.com/yizhen20133868/DeepLearning-MuLi-Notes/blob/main/notes/00-%E9%A2%84%E5%91%8A.md) | [视频](https://www.bilibili.com/video/BV1if4y147hS?spm_id_from=333.999.0.0) | [笔记](https://github.com/yizhen20133868/DeepLearning-MuLi-Notes/blob/main/notes/00-%E9%A2%84%E5%91%8A.md) [代码](https://github.com/yizhen20133868/DeepLearning-MuLi-Notes/blob/main/code/code_demo.py) [PPT](https://github.com/yizhen20133868/DeepLearning-MuLi-Notes/blob/main/ppt/ppt_demo) | [kokolerk](https://github.com/kokolerk), [Aleafy](https://github.com/Aleafy) |
 ## 文件夹说明
-- **img**：笔记涉及到的图片
+- **imgs**：笔记涉及到的图片
 - **notes**：笔记的markdown版本
 - **code**：课程涉及到的python代码
 - **PPT**：课程汇报交流的PPT
