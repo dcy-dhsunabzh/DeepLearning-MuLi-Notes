@@ -73,5 +73,17 @@
 - **notes**：笔记的markdown版本
 - **code**：课程涉及到的python代码
 
+## 贡献者
+感谢一下同学对本项目的支持和贡献
+<a href="https://github.com/Aleafy">  <img src="./imgs/profile/Ye_Fang.png"  width="80" /></a> 
+<a href="https://github.com/kokolerk"><img src="./imgs/profile/JiaQi_Wang.png"  width="80" /></a> 
+<a href="https://github.com/EcolesYee">  <img src="./imgs/profile/RuiChen_Yi.png"  width="80" /></a>
+<a href="https://github.com/Chigland">  <img src="./imgs/profile/ZhiTao_Wang.png"  width="80" /></a> 
+<a href="https://github.com/Khadorstorm"><img src="./imgs/profile/KeCheng_Zhang.png"  width="80" /></a>
+<a href="https://github.com/kinza99">  <img src="./imgs/profile/He_Du.png"  width="80" /></a> 
+<a href="https://github.com/chase6666"><img src="./imgs/profile/Kuo_Tian.png"  width="80" /></a>
+<a href="https://github.com/Atream">  <img src="./imgs/profile/BoXin_Zhang.png"  width="80" /></a>
+<a href="https://github.com/benmagnifico"><img src="./imgs/profile/JingGuang_Li.png"  width="80" /></a>
+<a href="https://github.com/dcy-dhsunabzh">  <img src="./imgs/profile/ChenYang_Ding.png"  width="80" /></a>
 
 
