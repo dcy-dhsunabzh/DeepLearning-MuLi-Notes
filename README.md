@@ -1,6 +1,6 @@
 
 <p align="center">
-<h1>《动手学习深度学习》</h1>
+<h1 align="center">《动手学习深度学习》</h1>
 </p>
 <center><font face="黑体" size=10>《动手学习深度学习》</font></center>
 <p align="center">
