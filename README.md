@@ -55,8 +55,8 @@
 | 15   | [自然语言处理：应用](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/index.html) | [Natural Language Processing Applications](https://d2l.ai/chapter_natural-language-processing-applications/index.html) |
 | 16   | 推荐系统                                                     | [Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html) |
 | 17   | 生成对抗网络                                                 | [Generative Adversarial Networks](https://d2l.ai/chapter_generative-adversarial-networks/index.html) |
-| 18   | 附录：深度学习数学基础                                               | [Appendix: Mathematics for Deep Learning](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) |
-| 19   | [附录：深度学习工具](https://zh-v2.d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) | [Appendix: Tools for Deep Learning](https://d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) |
+| 18   | 附录： 深度学习中的数学基础                                               | [Appendix: Mathematics for Deep Learning](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) |
+| 19   | [附录： 深度学习工具](https://zh-v2.d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) | [Appendix: Tools for Deep Learning](https://d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) |
 
 
 ## ★ 笔记
