@@ -58,7 +58,7 @@
 | 19   | [附录：深度学习工具](https://zh-v2.d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) | [Appendix: Tools for Deep Learning](https://d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) |
 
 
-## ■笔记
+## ♠笔记
 
 
 | 视频                                                         | 笔记                                                         | 讲义                                                         | 代码                                                         | 贡献者                                                       |
