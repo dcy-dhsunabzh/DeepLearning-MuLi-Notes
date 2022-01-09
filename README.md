@@ -32,11 +32,28 @@
 
 ## 课程目录
 
-<div class="center">
+| 章节 | 中文版                                                       | 英文版                                                       |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | [前言](https://zh-v2.d2l.ai/chapter_introduction/index.html) | [Introduction]((https://d2l.ai/chapter_introduction/index.html)) |
+| 2    | [预备知识](https://zh-v2.d2l.ai/chapter_preliminaries/index.html) | [Preliminaries](https://d2l.ai/chapter_preliminaries/index.html) |
+| 3    | [线性神经网络](https://zh-v2.d2l.ai/chapter_linear-networks/index.html) | [Linear Neural Networks](https://d2l.ai/chapter_linear-networks/index.html) |
+| 4    | [多层感知机](https://zh-v2.d2l.ai/chapter_multilayer-perceptrons/index.html) | [Multilayer Perceptrons](https://d2l.ai/chapter_multilayer-perceptrons/index.html) |
+| 5    | [深度学习计算](https://zh-v2.d2l.ai/chapter_deep-learning-computation/index.html) | [Deep Learning Computation](https://d2l.ai/chapter_deep-learning-computation/index.html) |
+| 6    | [卷积神经网络](https://zh-v2.d2l.ai/chapter_convolutional-neural-networks/index.html) | [Convolutional Neural Networks](https://d2l.ai/chapter_convolutional-neural-networks/index.html) |
+| 7    | [现代卷积神经网络](https://zh-v2.d2l.ai/chapter_convolutional-modern/index.html) | [Modern Convolutional Neural Networks](https://d2l.ai/chapter_convolutional-modern/index.html) |
+| 8    | [循环神经网络](https://zh-v2.d2l.ai/chapter_recurrent-neural-networks/index.html) | [Recurrent Neural Networks](https://d2l.ai/chapter_recurrent-neural-networks/index.html) |
+| 9    | [现代循环神经网络](https://zh-v2.d2l.ai/chapter_recurrent-modern/index.html) | [Modern Recurrent Neural Networks](https://d2l.ai/chapter_recurrent-modern/index.html) |
+| 10   | [注意力机制](https://zh-v2.d2l.ai/chapter_attention-mechanisms/index.html) | [Attention Mechanisms](https://d2l.ai/chapter_attention-mechanisms/index.html) |
+| 11   | [优化算法](https://zh-v2.d2l.ai/chapter_optimization/index.html) | [Optimization Algorithms](https://d2l.ai/chapter_optimization/index.html) |
+| 12   | [计算性能](https://zh-v2.d2l.ai/chapter_computational-performance/index.html) | [Computational Performance](https://d2l.ai/chapter_computational-performance/index.html) |
+| 13   | [计算机视觉](https://zh-v2.d2l.ai/chapter_computer-vision/index.html) | [Computer Vision](https://d2l.ai/chapter_computer-vision/index.html) |
+| 14   | [自然语言处理：预训练](https://zh-v2.d2l.ai/chapter_natural-language-processing-pretraining/index.html) | [Natural Language Processing: Pretraining](https://d2l.ai/chapter_natural-language-processing-pretraining/index.html) |
+| 15   | [自然语言处理：应用](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/index.html) | [Natural Language Processing Applications](https://d2l.ai/chapter_natural-language-processing-applications/index.html) |
+| 16   | 推荐系统                                                     | [Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html) |
+| 17   | 生成对抗网络                                                 | [Generative Adversarial Networks](https://d2l.ai/chapter_generative-adversarial-networks/index.html) |
+| 18   | 附录：深度学习数学基础                                       | [Appendix: Mathematics for Deep Learning]((https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html)) |
+| 19   | [附录：深度学习工具](https://zh-v2.d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) | [Appendix: Tools for Deep Learning](https://d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) |
 
-
-
-</div>
 
 ## 笔记
 
