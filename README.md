@@ -72,6 +72,6 @@
 - **imgs**：笔记涉及到的图片
 - **notes**：笔记的markdown版本
 - **code**：课程涉及到的python代码
-- **PPT**：课程汇报交流的PPT
+
 
 
