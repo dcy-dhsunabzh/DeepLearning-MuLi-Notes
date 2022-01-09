@@ -1,5 +1,7 @@
+
+<p align="center">
 <font face="黑体" size=10>《动手学习深度学习》</font>
-<center>诶嘿</center>
+</p>
 <center><font face="黑体" size=10>《动手学习深度学习》</font></center>
 <center>[课程简介],[课程资源],[课程目录],[笔记],[文件夹说明],[贡献者]</center>
 
