@@ -19,7 +19,7 @@
 
 在 **《动手学习深度学习》** 课程中，既有少量的机器学习的基础知识，比如：__线性神经网络，多层感知机__ 等等；又有如今前沿应用的 __各种深度学习模型：包括leNet，ResNet，LSTM，BERT……__ 同时每一章节的讲解还配备由pytorch实现的代码、教科书等等，可以帮助同学在短期内掌握深度学习的基础模型与前沿知识和并提高实践能力。
 
-## ☆课程资源
+## ◆课程资源
 
 
 - B站教学网址：[动手学习深度学习（已完结）](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
@@ -31,7 +31,7 @@
 
 
 
-## ☆教材目录
+## ●教材目录
 
 [《动手学深度学习》(中文版)](https://zh-v2.d2l.ai)和英文版[Dive into Deep Learning 0.17.1 documentation](https://d2l.ai)教材目录及章节链接如下：
 
@@ -58,7 +58,7 @@
 | 19   | [附录：深度学习工具](https://zh-v2.d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) | [Appendix: Tools for Deep Learning](https://d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) |
 
 
-## ◎笔记
+## ■笔记
 
 
 | 视频                                                         | 笔记                                                         | 讲义                                                         | 代码                                                         | 贡献者                                                       |
