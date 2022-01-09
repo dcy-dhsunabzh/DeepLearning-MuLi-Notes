@@ -12,14 +12,14 @@
 
 课程视频**共73节**，单个视频平均时长**不超过30分钟**，预计**寒假40天**内可以学习完毕。
 
-## 课程简介
+## ☆课程简介
 
 
 通常我们提到深度学习，常常会忘记深度学习只是机器学习的一小部分，而认为它是独立于机器学习的单独模块。这是因为机器学习作为一门历史更悠久的学科，在深度学习没有问世之前，在现实世界的应用范围很窄。在语音识别、计算机视觉、自然语言处理等领域，由于需要大量的领域知识并且现实情况异常复杂，机器学习往往只是解决这些领域问题方案中的一小部分。但是就在过去的几年里，深度学习的问世和应用给世界带来了惊喜，推动了计算机视觉、自然语言处理、自动语音识别、强化学习和统计建模等领域的快速发展，并逐渐引领潮流，在世界掀起了一波人工智能的革命。
 
 在 **《动手学习深度学习》** 课程中，既有少量的机器学习的基础知识，比如：__线性神经网络，多层感知机__ 等等；又有如今前沿应用的 __各种深度学习模型：包括leNet，ResNet，LSTM，BERT……__ 同时每一章节的讲解还配备由pytorch实现的代码、教科书等等，可以帮助同学在短期内掌握深度学习的基础模型与前沿知识和并提高实践能力。
 
-## 课程资源
+## ☆课程资源
 
 
 - B站教学网址：[动手学习深度学习（已完结）](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
@@ -31,7 +31,7 @@
 
 
 
-## 教材目录
+## ☆教材目录
 
 [《动手学深度学习》(中文版)](https://zh-v2.d2l.ai)和英文版[Dive into Deep Learning 0.17.1 documentation](https://d2l.ai)教材目录及章节链接如下：
 
@@ -54,11 +54,11 @@
 | 15   | [自然语言处理：应用](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/index.html) | [Natural Language Processing Applications](https://d2l.ai/chapter_natural-language-processing-applications/index.html) |
 | 16   | 推荐系统                                                     | [Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html) |
 | 17   | 生成对抗网络                                                 | [Generative Adversarial Networks](https://d2l.ai/chapter_generative-adversarial-networks/index.html) |
-| 18   | 附录：深度学习数学基础                                       | [Appendix: Mathematics for Deep Learning]((https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html)) |
+| 18   | 附录：深度学习数学基础                                       | [Appendix: Mathematics for Deep Learning](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) |
 | 19   | [附录：深度学习工具](https://zh-v2.d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) | [Appendix: Tools for Deep Learning](https://d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) |
 
 
-## 笔记
+## ◎笔记
 
 
 | 视频                                                         | 笔记                                                         | 讲义                                                         | 代码                                                         | 贡献者                                                       |
@@ -73,14 +73,14 @@
 | <a href="https://www.bilibili.com/video/BV1KA411N7Px?spm_id_from=333.999.0.0">  <img src="./imgs/cover/07.png"  width="170" /></a> | [07-链式法则和自动求导](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/notes/07-%E8%87%AA%E5%8A%A8%E6%B1%82%E5%AF%BC.md) | [课程讲义](https://courses.d2l.ai/zh-v2/assets/pdfs/part-0_7.pdf) | [Jupyter 代码](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/code/07-%E8%87%AA%E5%8A%A8%E6%B1%82%E5%AF%BC.py) | <a href="https://github.com/Chigland">  <img src="./imgs/profile/ZhiTao_Wang.png"  width="80" /></a> <a href="https://github.com/Khadorstorm"><img src="./imgs/profile/KeCheng_Zhang.png"  width="80" /></a> |
 
 
-## 文件夹说明
+## ★文件夹说明
 
 
 - **imgs**：笔记涉及到的图片
 - **notes**：笔记的markdown版本
 - **code**：课程涉及到的python代码
 
-## 贡献者
+## ★贡献者
 感谢以下同学对本项目的指导、支持与贡献
 
 <a href="https://github.com/yizhen20133868">  <img src="./imgs/profile/yizhen20133868.png"  width="80" /></a> 
