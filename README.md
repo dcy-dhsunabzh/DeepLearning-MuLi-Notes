@@ -3,7 +3,7 @@
 <h1 align="center">《动手学习深度学习》</h1>
 </p>
 
-[课程简介](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程简介), [课程资源](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程资源), [课程目录](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程目录), [笔记](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#笔记), [文件夹说明](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#文件夹说明)
+[课程简介](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程简介), [课程资源](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程资源), [课程目录](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程目录), [笔记](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#笔记), [文件夹说明](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#文件夹说明),[贡献者](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#贡献者)
 
 
 ---
@@ -75,6 +75,8 @@
 
 ## 贡献者
 感谢一下同学对本项目的支持和贡献
+
+<a href="https://github.com/yizhen20133868">  <img src="./imgs/profile/yizhen20133868.png"  width="80" /></a> 
 <a href="https://github.com/Aleafy">  <img src="./imgs/profile/Ye_Fang.png"  width="80" /></a> 
 <a href="https://github.com/kokolerk"><img src="./imgs/profile/JiaQi_Wang.png"  width="80" /></a> 
 <a href="https://github.com/EcolesYee">  <img src="./imgs/profile/RuiChen_Yi.png"  width="80" /></a>
