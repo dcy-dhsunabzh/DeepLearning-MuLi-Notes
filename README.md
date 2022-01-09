@@ -8,7 +8,6 @@
 
 ### 课程简介
 
----
 
 > 通常我们提到深度学习，常常会忘记深度学习只是机器学习的一小部分，而认为它是独立于机器学习的单独模块。这是因为机器学习作为一门历史更悠久的学科，在深度学习没有问世之前，在现实世界的应用范围很窄。在语音识别、计算机视觉、自然语言处理等领域，由于需要大量的领域知识并且现实情况异常复杂，机器学习往往只是解决这些领域问题方案中的一小部分。但是就在过去的几年里，深度学习的问世和应用给世界带来了惊喜，推动了计算机视觉、自然语言处理、自动语音识别、强化学习和统计建模等领域的快速发展，并逐渐引领潮流，在世界掀起了一波人工智能的革命。
 
@@ -16,7 +15,6 @@
 
 ### 课程资源
 
----
 
 >- B站教学网址：[动手学习深度学习（已完结）](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 >- 教材网址：[zh-v2.d2l.ai](https://zh-v2.d2l.ai)
@@ -28,7 +26,6 @@
 
 ### 课程目录
 
----
 
 >1. 预备知识
 >2. 线性神经网络
@@ -56,7 +53,6 @@
 
 | 序号 | 标题 | 视频 | 链接 |贡献者 |
 | :----| :---- | :----| :---- | :---- |
-| 序号 | [标题](笔记链接网址) | [视频](b站视频网址) | [笔记](笔记链接) [代码](代码链接) [PPT](PPT链接)| [贡献者](贡献者主页网址) |
 | 00 | [预告](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/notes/00-%E9%A2%84%E5%91%8A.md) | [视频](https://www.bilibili.com/video/BV1if4y147hS?spm_id_from=333.999.0.0) | [笔记](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/notes/00-%E9%A2%84%E5%91%8A.md) [代码](https://github.com/yizhen20133868/DeepLearning-MuLi-Notes/blob/main/code/code_demo.py) [PPT](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/ppt/ppt_demo) | [kokolerk](https://github.com/kokolerk), [Aleafy](https://github.com/Aleafy) |
 | 01 | [课程安排](notes/01-%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92.md) | [视频](https://www.bilibili.com/video/BV1oX4y137bC?spm_id_from=333.999.0.0) | [笔记](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/notes/01-%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92.md)  [PPT](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/ppt/00-02.%E9%A2%84%E5%91%8A%E3%80%81%E5%AE%89%E6%8E%92%E5%92%8C%E4%BB%8B%E7%BB%8D.pptx)| [Aleafy](https://github.com/Aleafy) |
 | 02 | [深度学习介绍](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/notes/02-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%BB%8B%E7%BB%8D.md) | [视频](https://www.bilibili.com/video/BV1J54y187f9?spm_id_from=333.999.0.0) | [笔记](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/notes/02-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%BB%8B%E7%BB%8D.md)  [PPT](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/ppt/00-02.%E9%A2%84%E5%91%8A%E3%80%81%E5%AE%89%E6%8E%92%E5%92%8C%E4%BB%8B%E7%BB%8D.pptx)| [Aleafy](https://github.com/Aleafy) |
@@ -75,3 +71,6 @@
 - **notes**：笔记的markdown版本
 - **code**：课程涉及到的python代码
 - **PPT**：课程汇报交流的PPT
+
+### 贡献者
+
