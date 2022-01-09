@@ -23,14 +23,17 @@
 
 
 - B站教学网址：[动手学习深度学习（已完结）](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
-- 教材网址：[zh-v2.d2l.ai](https://zh-v2.d2l.ai)
+- 教材网址：[《动手学深度学习》(中文版)](https://zh-v2.d2l.ai), [Dive into Deep Learning 0.17.1 documentation](https://d2l.ai)
+- 课程主页：[https://courses.d2l.ai/zh-v2/](https://courses.d2l.ai/zh-v2/)
 - 论坛网址：[discuss.d2l.ai](https://discuss.d2l.ai/c/chinese-version/16)，[discuss.pytorch](https://discuss.pytorch.org)
 
 此外，本门课程还有相应的代码实现。**每章都有相应的jupyter记事本，提供模型的完整python代码**，所有的资源都可在网上免费获取。
 
 
 
-## 课程目录
+## 教材目录
+
+[《动手学深度学习》(中文版)](https://zh-v2.d2l.ai)和英文版[Dive into Deep Learning 0.17.1 documentation](https://d2l.ai)教材目录及章节链接如下：
 
 | 章节 | 中文版                                                       | 英文版                                                       |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
