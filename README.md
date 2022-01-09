@@ -1,5 +1,5 @@
 李沐老师的《动手学深度学习v2》是公认非常好的入门深度学习的课程，本门课配备有专门的[教材](https://zh-v2.d2l.ai)，每一章都是一个jupyter记事本**提供所有模型的完整实现**，并在真实数据集上运行，可以帮助同学们动手实践深度学习的知识。相关的讨论论坛有[讨论网址](https://discuss.d2l.ai/c/chinese-version/16)，[pytorch论坛](https://discuss.pytorch.org)。
-本项目记录了我们在寒假期间通过[b站视频](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)学习交流的笔记，希望在自己学习的同时，也希望对大家学习有所帮助。
+本项目记录了我们在寒假期间通过[b站视频](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)学习交流的笔记，希望在自己学习的同时，对大家学习也有所帮助。
 ## 动手学深度学习笔记整理
 | 序号 | 标题 | 视频 | 链接 |贡献者 |
 | :----| :---- | :----| :---- | :---- |
