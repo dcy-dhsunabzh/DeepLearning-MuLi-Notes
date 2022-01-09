@@ -95,5 +95,5 @@
 <a href="https://github.com/Atream">  <img src="./imgs/profile/BoXin_Zhang.png"  width="80" /></a>
 <a href="https://github.com/benmagnifico"><img src="./imgs/profile/JingGuang_Li.png"  width="80" /></a>
 <a href="https://github.com/dcy-dhsunabzh">  <img src="./imgs/profile/ChenYang_Ding.png"  width="80" /></a>
-
+<a href="https://github.com/fghccv"><img src="./imgs/profile/ShiQi_Zhou.png"  width="80" /></a>
 
