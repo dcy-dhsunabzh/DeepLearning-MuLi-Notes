@@ -32,6 +32,8 @@
 
 ## 课程目录
 
+<div class="center">
+
 | 章节号 | 标题                                                         |
 | ------ | ------------------------------------------------------------ |
 | 1      | [前言](https://zh-v2.d2l.ai/chapter_introduction/index.html) |
@@ -51,7 +53,7 @@
 | 15     | [自然语言处理：应用](https://zh-v2.d2l.ai/chapter_natural-language-processing-applications/index.html) |
 | 16     | [附录：深度学习工具](https://zh-v2.d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) |
 
-
+</div>
 
 ## 笔记
 
