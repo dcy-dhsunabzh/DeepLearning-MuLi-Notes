@@ -2,9 +2,9 @@
 <p align="center">
 <h1 align="center">《动手学习深度学习》</h1>
 </p>
-<p align="center">
+
 [课程简介](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程简介), [课程资源](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程资源), [课程目录](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程目录), [笔记](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#笔记), [文件夹说明](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#文件夹说明)
-</p>
+
 
 ---
 
