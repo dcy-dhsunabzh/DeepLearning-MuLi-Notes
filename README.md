@@ -50,7 +50,10 @@
 
 
 
-## 动手学深度学习笔记整理
+### 笔记
+
+---
+
 | 序号 | 标题 | 视频 | 链接 |贡献者 |
 | :----| :---- | :----| :---- | :---- |
 | 序号 | [标题](笔记链接网址) | [视频](b站视频网址) | [笔记](笔记链接) [代码](代码链接) [PPT](PPT链接)| [贡献者](贡献者主页网址) |
@@ -64,7 +67,7 @@
 | 07 | [链式法则和自动求导](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/notes/07-%E8%87%AA%E5%8A%A8%E6%B1%82%E5%AF%BC.md) | [视频](https://www.bilibili.com/video/BV1KA411N7Px?spm_id_from=333.999.0.0) | [笔记](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/notes/07-%E8%87%AA%E5%8A%A8%E6%B1%82%E5%AF%BC.md) [代码](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/code/07-%E8%87%AA%E5%8A%A8%E6%B1%82%E5%AF%BC.py) [PPT](ppt/04%E6%95%B0%E6%8D%AE%E6%93%8D%E4%BD%9C%E5%92%8C%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86%E6%80%BB%E7%BB%93%EF%BC%88%E5%BC%A0%E5%8D%9A%E9%91%AB%EF%BC%89.pptx)| [Chigland](https://github.com/Chigland)|
 
 
-## 文件夹说明
+### 文件夹说明
 
 ---
 
