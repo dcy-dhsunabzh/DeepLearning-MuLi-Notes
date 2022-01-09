@@ -23,7 +23,7 @@
 
 
 - B站教学网址：[动手学习深度学习（已完结）](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
-- 教材网址：[《动手学深度学习》(中文版)](https://zh-v2.d2l.ai), [Dive into Deep Learning 0.17.1 documentation](https://d2l.ai)
+- 教材网址：[《动手学深度学习》(中文版)](https://zh-v2.d2l.ai), [《Dive into Deep Learning》 0.17.1 documentation](https://d2l.ai)
 - 课程主页：[https://courses.d2l.ai/zh-v2/](https://courses.d2l.ai/zh-v2/)
 - 论坛网址：[discuss.d2l.ai](https://discuss.d2l.ai/c/chinese-version/16)，[discuss.pytorch](https://discuss.pytorch.org)
 
