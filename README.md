@@ -3,7 +3,7 @@
 <h1 align="center">《动手学习深度学习》</h1>
 </p>
 
-[课程简介](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程简介), [课程资源](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程资源), [课程目录](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程目录), [笔记](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#笔记), [文件夹说明](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#文件夹说明),[贡献者](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#贡献者)
+[课程简介](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程简介), [课程资源](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程资源), [课程目录](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#课程目录), [笔记](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#笔记), [文件夹说明](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#文件夹说明), [贡献者](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes/blob/main/README.md#贡献者)
 
 
 ---
@@ -35,6 +35,7 @@
 
 [《动手学深度学习》(中文版)](https://zh-v2.d2l.ai)和英文版[Dive into Deep Learning 0.17.1 documentation](https://d2l.ai)教材目录及章节链接如下：
 
+<p align="center">
 | 章节 | 中文版                                                       | 英文版                                                       |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | [前言](https://zh-v2.d2l.ai/chapter_introduction/index.html) | [Introduction]((https://d2l.ai/chapter_introduction/index.html)) |
@@ -56,7 +57,7 @@
 | 17   | 生成对抗网络                                                 | [Generative Adversarial Networks](https://d2l.ai/chapter_generative-adversarial-networks/index.html) |
 | 18   | 附录：深度学习数学基础                                       | [Appendix: Mathematics for Deep Learning](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) |
 | 19   | [附录：深度学习工具](https://zh-v2.d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) | [Appendix: Tools for Deep Learning](https://d2l.ai/chapter_appendix-tools-for-deep-learning/index.html) |
-
+</p>
 
 ## ★ 笔记
 
