@@ -2,7 +2,7 @@
 <p align="center",style="size:10">
 《动手学习深度学习》
 </p>
-
+<center><font face="黑体" size=10>《动手学习深度学习》</font></center>
 <p align="center">
   
 </p>
