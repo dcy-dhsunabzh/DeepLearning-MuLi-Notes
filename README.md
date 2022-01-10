@@ -99,7 +99,7 @@
 <a href="https://github.com/dcy-dhsunabzh">  <img src="./imgs/profile/ChenYang_Ding.png"  width="80" /></a>
 <a href="https://github.com/fghccv"><img src="./imgs/profile/ShiQi_Zhou.png"  width="80" /></a>
 
-## ♦ 组织者
+## ☺ 组织者
 <a href="https://github.com/yizhen20133868">  <img src="./imgs/profile/yizhen20133868.png"  width="80" /></a> 
 <a href="http://xcfeng.net/">  <img src="./imgs/profile/XiaChong_Feng.jpg"  width="80" /></a> 
 <a href="https://andy-border.github.io/">  <img src="./imgs/profile/jianan.png"  width="80" /></a> 
