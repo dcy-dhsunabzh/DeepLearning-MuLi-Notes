@@ -8,7 +8,7 @@
   - 人们希望可以用支票自动取钱
 - 该模型在80年代末的银行被真正的部署
 
-<img src="../imgs/23/23-01.png" alt="image" width="1000" />
+<img src="../imgs/23/23-01.png" alt="image" width="500" />
 
 #### 1.2 MNIST
 
@@ -18,7 +18,7 @@
 - 图像大小为28*28
 - 10类
 
-<img src="../imgs/23/23-02.png" alt="image" width="1000" />
+<img src="../imgs/23/23-02.png" alt="image" width="500" />
 
 #### 1.3 LeNet的具体模型
 
